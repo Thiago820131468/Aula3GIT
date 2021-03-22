@@ -1,0 +1,19 @@
+git add * adiciona todos os arquivos
+
+git status -s apenas mostra o arquivo modificado
+
+
+
+class vai para o gitignore
+
+
+git remote liga o git com o github
+
+git clone
+
+
+git remote add origin .....https:..... 
+
+
+git push origin master mandando subir o arquivo no github cria uma branch chamada master
+
